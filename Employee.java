@@ -1,5 +1,4 @@
-public class Employee implements Payable
-{
+public class Employee implements Payable {
     
     @Override
     public void calculatePayment(int rate, int hours) {
